@@ -111,8 +111,6 @@ int main()
 
   //画面上の座標表示
 	printf("%f,%f\n",img(0)/img(2),img(1)/img(2));
-
-
-
-
+	
+	
 }
